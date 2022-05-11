@@ -1,9 +1,9 @@
 import pyautogui, webbrowser
 from time import sleep
 
-lucia = "+549341301-0051"
-luca = "+549341216-9777"
-webbrowser.open('http://web.whatsapp.com/send?phone=+5493413010051')
+lucia = "+xxxxxxxxx-xxxx"
+luca = "+xxxxxxxxx-xxxx"
+webbrowser.open('http://web.whatsapp.com/send?phone=+xxxxxxxxxxxxx')
 
 sleep(5)
 
