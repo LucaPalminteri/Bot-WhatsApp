@@ -1,10 +1,10 @@
 Date: 22/3/2022
 Time: 9:10
-Phone Number: +5493412169777
+Phone Number: +xxxxxxxxxxxxx
 Message: Hi
 --------------------
 Date: 22/3/2022
 Time: 9:14
-Phone Number: +5493412169777
+Phone Number: +xxxxxxxxxxxxx
 Message: Message sending from Python, bot made by Luca (send only 9:20)
 --------------------
